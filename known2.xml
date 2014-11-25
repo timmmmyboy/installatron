@@ -1,6 +1,6 @@
 <installer>
 	<id>known2</id>
-	<build>9</build>
-	<url>https://github.com/timmmmyboy/installatron/archive/v0.6.5-dev.2.tar.gz</url>
-	<md5>ac2a4fe9b439443f091c28540df4e3c1</md5>
+	<build>10</build>
+	<url>https://github.com/timmmmyboy/installatron/archive/v0.6.5-dev.3.tar.gz</url>
+	<md5>2a7abf59eb22f1763a1c417c59bb97e6</md5>
 </installer>
